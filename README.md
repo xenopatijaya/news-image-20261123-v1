@@ -1,8 +1,8 @@
 # The World in One Day — Monday 23 November 2026
 
-[![news-image-20261123](https://make.fun/c/news-image-20261123/badge/news-image-20261123.svg)](https://make.fun/c/news-image-20261123)
-[![rank](https://make.fun/c/news-image-20261123/badge/news-image-20261123/xenopatijaya/news-image-20261123-v1/rank.svg)](https://make.fun/c/news-image-20261123)
-[![reward](https://make.fun/c/news-image-20261123/badge/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/xenopatijaya/news-image-20261123-v1/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/xenopatijaya/news-image-20261123-v1/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 **Sum up 23 November's world news in one image** — a make.fun bounty
 ([news-image-20261123](https://make.fun/c/news-image-20261123), $100, top 50).
